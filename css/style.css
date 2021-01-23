@@ -1,0 +1,22 @@
+.clear {
+	clear: both;
+}
+.f-left {
+	float:left;
+}
+.text-box {
+	width: 352px;
+	height: 148px;
+	text-align: center;
+	background-color: #F8F8F8;
+	border-style: #707070;
+}
+.box {
+	margin-top: 50px;
+	margin-right: 16px;
+	margin-bottom: 15px;
+}
+.container {
+	width: 1160px;
+	margin:0 auto;
+}
