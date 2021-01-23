@@ -18,7 +18,9 @@
 }
 .container {
 	width: 1160px;
-	margin:72px auto;
+	margin-top: 72px;
+	margin-left: auto;
+	margin-right: auto;
 }
 .h5 {
 	text-transform: uppercase;
@@ -39,5 +41,10 @@
 	font-size: 42px;
 	font-weight: 800;
 	margin-top: 5px;
-
+}
+.paragraph {
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 21px;
+	color: #B1B1B1;
 }
