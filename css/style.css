@@ -48,3 +48,23 @@
 	line-height: 21px;
 	color: #B1B1B1;
 }
+.section-block::after {
+	content: ' ';
+	clear: both;
+	display: block;
+}
+.container::after {
+	content: ' ';
+	clear: both;
+	display: block;
+}
+.box::after {
+	content: ' ';
+	clear: both;
+	display: block;
+}
+.text-box::after {
+	content: ' ';
+	clear: both;
+	display: block;
+}
